@@ -1,2 +1,2 @@
 # projet_5
-projet 5 OC
+Website for "La Compagnie des Trois Rivieres"
